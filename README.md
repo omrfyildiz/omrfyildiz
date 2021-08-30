@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Ömer</h1>
 
-- 🏠 Currently located in İstanbul TR
+- 🏠 Located in İstanbul TR
 - 🕹️ Fascinated by new technologies and open source
-- 📚 Working on .Net and DevOps
-- 🌱 I’m currently improving abilities on Linux and Python  
+- 📚 Working on .NetCore and DevOps
+- 🌱 Currently improving abilities on Linux and Python  
 - 🎮 Playing PC Games
-- 🚶  Love walking 
+- 🚶  In love with walking 
 
 ![](https://media.gcflearnfree.org/content/55e0730c7dd48174331f5164_01_17_2014/whatisacomputer_laptop_computers.jpg)
 
