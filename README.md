@@ -7,7 +7,7 @@
 - 🎮 Playing PC Games
 - 🚶  In love with walking 
 
-![](https://media.gcflearnfree.org/content/55e0730c7dd48174331f5164_01_17_2014/whatisacomputer_laptop_computers.jpg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ### Connect with me
 <p align="left">
