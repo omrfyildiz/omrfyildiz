@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Ömer</h1>
 
 - 🏠 Located in İstanbul TR
-- 🕹️ Fascinated by new technologies and open source
+- 🕹️ Fascinated by new technologies, data, and open source
 - 📚 Working on .NetCore and DevOps
-- 🌱 Currently improving abilities on Linux and Python  
+- 🌱 Currently improving abilities on Python  
 - 🎮 Playing PC Games
 - 🚶  In love with walking 
 
