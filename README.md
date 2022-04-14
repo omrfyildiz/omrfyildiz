@@ -2,7 +2,7 @@
 
 - 🏠 Located in İstanbul TR
 - 🕹️ Fascinated by new technologies, data, and open source
-- 📚 Working on analysis and data
+- 📚 Working on data analysis
 - 🌱 Currently improving abilities on Python  
 - 🎮 Playing PC Games
 - 🚶  In love with walking 
