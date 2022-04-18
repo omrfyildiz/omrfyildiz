@@ -3,8 +3,7 @@
 - 🏠 Located in İstanbul TR
 - 🕹️ Fascinated by new technologies, data, and open source
 - 📚 Working on data analysis
-- 🌱 Currently improving abilities on Python  
-- 🎮 Playing PC Games
+- 🌱 Currently improving abilities on Python
 - 🚶  In love with walking 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
